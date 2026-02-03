@@ -9,7 +9,7 @@ It delivers core agent capabilities with a minimal codebase, focusing on plannin
 
 🦾 **Action-First Agent Design**
 
-Built around execution, not just conversation. ClawAI plans, calls tools, and completes tasks end-to-end.
+Built around execution, not just conversation. NanoClaw plans, calls tools, and completes tasks end-to-end.
 
 
 🪶 **Lightweight & Minimal**
