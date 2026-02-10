@@ -30,3 +30,30 @@ Low startup latency and low resource usage, ideal for local workflows and rapid 
 💎 **Simple to Use**
 
 Minimal configuration. Get a working agent up and running in minutes.
+
+
+# 📦 Installation
+
+ClawAI Agent supports **multiple installation methods** to fit different development and deployment needs.
+
+## Install from Source (Development Recommended)
+
+Best for **contributors, developers, and custom builds**.
+
+```bash
+git clone https://github.com/Yuan-ManX/clawai.git
+cd clawai
+pip install -e .
+```
+
+## Install with uv (Fast & Stable)
+
+```bash
+uv tool install clawai
+```
+
+## Install from PyPI (Stable Release)
+
+```bash
+pip install clawai
+```
