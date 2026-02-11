@@ -1,4 +1,7 @@
-# ClawAI
+<div align="center">
+<h1>🦞 ClawAI:<br/>A Lightweight, Action-oriented Personal AI Assistant.</h1>
+</div>
+
 
 **ClawAI** is a **Lightweight, Action-oriented Personal AI Assistant** inspired by agent-based systems such as **Clawdbot**.⚡️ 
 
